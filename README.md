@@ -2,8 +2,8 @@
 
 
 <p align="center"> 
-	<a href="https://github.com/daniel-reiling">
-		<img src="https://img.shields.io/static/v1?label=Github&message=daniel-reiling&color=lightgray">	
+	<a href="https://github.com/KenOfHearts">
+		<img src="https://img.shields.io/static/v1?label=Github&message=Kenny-Ho&color=lightgray">	
 	</a>
 	<a href="https://linkedin.com/in/danielreiling/">
 		<img src="https://img.shields.io/static/v1?label=LinkedIn&message=danielreiling&color=2867B2">	
