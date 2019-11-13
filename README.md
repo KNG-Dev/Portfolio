@@ -65,3 +65,13 @@ Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am cur
 	<img src="/images/utd_mobile/utd_mobile_2.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/utd_mobile/utd_mobile_3.png" alt="Screenshot" width="220" height="417">
 </p>
+
+<p align="center">
+	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">UTD Watch</h3>
+<p align="center">
+	<a href="https://apps.apple.com/us/app/utd-mobile/id1299726915">
+		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+	</a>
+</p>
