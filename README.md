@@ -2,7 +2,7 @@
 	<img width="200" height="200" src="./images/profileImage.png"/> 
 </p>
 <h1 align="center">Kenny Ho</h1>
-<h3 align="center"> iOS Mobile Developer</h3>
+<h3 align="center"> iOS Developer</h3>
 
 
 <p align="center"> 
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am currently working toward my BS in Computer Science specializing in mobile development. I have been working as a mobile developer for the last 3 years, whether it be full time or contracting. I specialize in native mobile apps, but I do have experience building in cross platform environments such as React Native. Something interesting about me is that I also have a passion for developing augmented and virtual reality applications. Check out some of my work below and feel free to reach out to me at any time!	
+Hey there, I’m Kenny, a recent graduate at Temple University. I am currently pursuing a career in mobile development. I am a self-taught developer who have been programming for the last 2 years. I specialize in iOS apps. Something interesting about me is that I also have a passion for developing augmented and virtual reality applications. Check out some of my work below and feel free to reach out to me at any time!	
 </p>
 
 <h1 align="center">Work Experience</h1>
