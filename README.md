@@ -37,9 +37,6 @@ Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am cur
 	<a href="https://apps.apple.com/us/app/utd-mobile/id1299726915">
 		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
 	</a>
-	<a href="https://play.google.com/store/apps/details?id=edu.utdallas.utd&hl=en_US">
-		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
-	</a>
 </p>
 
 <p align="center">
