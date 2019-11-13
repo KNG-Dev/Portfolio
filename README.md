@@ -44,3 +44,24 @@ Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am cur
 		<img src="/images/google_play_badge.png" alt="App Store Badge" width="137" height="40">
 	</a>
 </p>
+
+<p align="center">
+	Stay connected to UT Dallas anytime, anywhere. From campus way finding, to information about the most current events and activities, to Comet sports and beyond, UTD Mobile keeps you informed.
+</p>
+<p align="center">
+	<code>XCode</code>
+	<code>Swift</code>
+	<code>UIKit</code>
+	<code>Cocoapods</code>
+</p>
+<p align="center">
+	<code>Android Studio</code>
+	<code>Java/Kotlin</code>
+	<code>Architecture Components</code>
+	<code>Jetpack Library</code>
+</p>
+<p align="center">
+	<img src="/images/utd_mobile/utd_mobile_1.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/utd_mobile/utd_mobile_2.png" alt="Screenshot" width="220" height="417">
+	<img src="/images/utd_mobile/utd_mobile_3.png" alt="Screenshot" width="220" height="417">
+</p>
