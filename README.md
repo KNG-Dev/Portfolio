@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
-	<a href="https://github.com/KenOfHearts">
+	<a href="https://github.com/KNG-Dev">
 		<img src="https://img.shields.io/static/v1?label=Github&message=kenny-ho&color=lightgray">	
 	</a>
 	<a href="https://www.linkedin.com/in/kenny-ho-84b039a3/">
