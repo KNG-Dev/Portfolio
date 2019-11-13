@@ -1,8 +1,8 @@
 <p align="center">
 	<img width="200" height="200" src="./images/header_image.png"/> 
 </p>
-<h1 align="center">Daniel Reiling</h1>
-<h3 align="center">Mobile Developer</h3>
+<h1 align="center">Kenny Ho</h1>
+<h3 align="center"> iOS Mobile Developer</h3>
 
 
 <p align="center"> 
