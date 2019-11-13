@@ -9,11 +9,11 @@
 	<a href="https://github.com/KenOfHearts">
 		<img src="https://img.shields.io/static/v1?label=Github&message=kenny-ho&color=lightgray">	
 	</a>
-	<a href="https://linkedin.com/in/danielreiling/">
-		<img src="https://img.shields.io/static/v1?label=LinkedIn&message=danielreiling&color=2867B2">	
+	<a href="https://www.linkedin.com/in/kenny-ho-84b039a3/">
+		<img src="https://img.shields.io/static/v1?label=LinkedIn&message=kennyho&color=2867B2">	
 	</a>
-	<a href="https://twitter.com/daniel_reiling">
-		<img src="https://img.shields.io/static/v1?label=Twitter&message=daniel_reiling&color=00ACEE">	
+	<a href="https://twitter.com/ken_kennedy_ho">
+		<img src="https://img.shields.io/static/v1?label=Twitter&message=kenny_ho&color=00ACEE">	
 	</a>
 	<a href="./resume.pdf">
 		<img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=green">	
