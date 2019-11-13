@@ -49,10 +49,10 @@ Hey there, I’m Daniel, a Senior at The University of Texas at Dallas. I am cur
 	<code>Cocoapods</code>
 </p>
 <p align="center">
-	<code>Android Studio</code>
-	<code>Java/Kotlin</code>
-	<code>Architecture Components</code>
-	<code>Jetpack Library</code>
+	<code>Firebase</code>
+	<code>Lottie</code>
+	<code>CoreData</code>
+	<code>UserDefaults</code>
 </p>
 <p align="center">
 	<img src="/images/utd_mobile/utd_mobile_1.png" alt="Screenshot" width="220" height="417">
