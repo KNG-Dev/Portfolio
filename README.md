@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200" height="200" src="./images/profileImage.jpeg"/> 
+	<img width="200" height="200" src="./images/profileImage.png"/> 
 </p>
 <h1 align="center">Kenny Ho</h1>
 <h3 align="center"> iOS Mobile Developer</h3>
