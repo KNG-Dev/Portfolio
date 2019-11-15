@@ -34,7 +34,7 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 </p>
 <h3 align="center">CookAList</h3>
 <p align="center">
-	<a href="https://apps.apple.com/us/app/utd-mobile/id1299726915">
+	<a href="https://apps.apple.com/ca/app/cookalist/id1467768162">
 		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
 	</a>
 </p>
