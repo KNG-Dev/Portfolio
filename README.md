@@ -27,7 +27,7 @@
 Hey there, I’m Kenny, a recent graduate at Temple University. I am currently pursuing a career in iOS mobile development. I am a self-taught developer who have been programming for the past 2 years. I specialize in front-end development. Something interesting about me is that in college in pursued a finance degree but grew to love software development during my junior year. I'm also a member of PhillyCocoaHeads and Philadelphia GDG. Check out some of my work below and feel free to reach out to me at any time!	
 </p>
 
-<h1 align="center">Work Experience</h1>
+<h1 align="center">App Portfolio</h1>
 
 <p align="center">
 	<img src="/images/CookAListLogo.png" alt="App Icon" width="100" height="100">
