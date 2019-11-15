@@ -46,12 +46,10 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 	<code>XCode</code>
 	<code>Swift</code>
 	<code>UIKit</code>
-	<code>Cocoapods</code>
 </p>
 <p align="center">
-	<code>Firebase</code>
+	<code>Cocoapods</code>
 	<code>Lottie</code>
-	<code>CoreData</code>
 	<code>UserDefaults</code>
 </p>
 <p align="center">
