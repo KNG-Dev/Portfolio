@@ -19,7 +19,7 @@
 		<img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=E94335">	
 	</a>
 	<a href="mailto:kenkennedyho@gmail.com">
-		<img src="https://img.shields.io/static/v1?label=Email&message=Kenny&color=F76831">	
+		<img src="https://img.shields.io/static/v1?label=Email&message=Kenny&color=109D58">	
 	</a>
 </p>
 
