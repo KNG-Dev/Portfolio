@@ -60,7 +60,4 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 	<img src="/images/IngredientPage@2x.png" alt="Screenshot" width="240" height="482">
 </p>
 
-<p align="center">
-	<img src="/images/utd_mobile/utd_mobile_app_icon.png" alt="App Icon" width="100" height="100">
-</p>
 
