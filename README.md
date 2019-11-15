@@ -55,7 +55,7 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 	<code>UserDefaults</code>
 </p>
 <p align="center">
-	<img src="/images/HomePage.png" alt="Screenshot" width="280" height="417">
+	<img src="/images/HomePage.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/utd_mobile/utd_mobile_3.png" alt="Screenshot" width="220" height="417">
 	<img src="/images/utd_mobile/utd_mobile_3.png" alt="Screenshot" width="220" height="417">
 </p>
