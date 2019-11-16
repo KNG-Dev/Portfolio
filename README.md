@@ -58,4 +58,5 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 	<img src="/images/IngredientPage@2x.png" alt="Screenshot" width="240" height="482">
 </p>
 
+<h1 align="center">Open Source Projects</h1>
 
