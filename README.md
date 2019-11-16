@@ -40,7 +40,7 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 </p>
 
 <p align="center">
-	Easy and convenient way to store your favorite recipes. Share these with your friends!
+	Easy and convenient way to store your favorite recipes. Share these with your friends and family and compare to which has the best recipe!
 </p>
 <p align="center">
 	<code>XCode</code>
