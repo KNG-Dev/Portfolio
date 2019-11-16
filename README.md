@@ -63,5 +63,5 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 <p align="center">
 	<img src="/images/SwiftUI Logo.png" alt="App Icon" width="100" height="100">
 </p>
-<h3 align="center">CookAList</h3>
+<h3 align="center">SwiftUI Animation</h3>
 
