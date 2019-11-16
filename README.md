@@ -60,3 +60,8 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 
 <h1 align="center">Open Source Projects</h1>
 
+<p align="center">
+	<img src="/images/CookAListLogo.png" alt="App Icon" width="100" height="100">
+</p>
+<h3 align="center">CookAList</h3>
+
