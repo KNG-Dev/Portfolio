@@ -40,7 +40,7 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 </p>
 
 <p align="center">
-	Better way to research stocks!
+	A Free & Simpler Way To Research Stocks!
 </p>
 <p align="center">
 	<code>XCode</code>
