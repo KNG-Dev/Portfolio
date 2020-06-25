@@ -30,17 +30,17 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 <h1 align="center">App Portfolio</h1>
 
 <p align="center">
-	<img src="/images/CookAListLogo.png" alt="App Icon" width="100" height="100">
+	<img src="/images/AlphaRexLogo.png" alt="App Icon" width="100" height="100">
 </p>
-<h3 align="center">CookAList</h3>
+<h3 align="center">AlphaRex</h3>
 <p align="center">
-	<a href="https://apps.apple.com/ca/app/cookalist/id1467768162">
+	<a href="https://apps.apple.com/us/app/alpharex/id1516005642">
 		<img src="/images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
 	</a>
 </p>
 
 <p align="center">
-	Easy and convenient way to store and share your favorite recipes!
+	Better way to research stocks!
 </p>
 <p align="center">
 	<code>XCode</code>
@@ -48,15 +48,14 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 	<code>UIKit</code>
 </p>
 <p align="center">
-	<code>Cocoapods</code>
-	<code>Lottie</code>
-	<code>UserDefaults</code>
+	<code>Apple Sign-In</code>
+	<code>Firestore</code>
+	<code>Disk</code>
 </p>
 <p align="center">
 	<img src="/images/AlphaRex_Home.png" alt="Screenshot" width="240" height="482">
 	<img src="/images/AlphaRex_Detail.png" alt="Screenshot" width="240" height="482">
 	<img src="/images/AlphaRex_MoreDetail.png" alt="Screenshot" width="240" height="482">
-	<img src="/images/AlphaRex_CompsAnalysis.png" alt="Screenshot" width="240" height="482">
 </p>
 
 <p align="center">
