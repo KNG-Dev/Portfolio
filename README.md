@@ -49,6 +49,7 @@ Hey there, I’m Kenny, a recent graduate at Temple University. I am currently p
 </p>
 <p align="center">
 	<code>Apple Sign-In</code>
+	<code>API Integration</code>
 	<code>Firestore</code>
 	<code>Disk</code>
 </p>
