@@ -15,7 +15,7 @@
 	<a href="https://twitter.com/ken_kennedy_ho">
 		<img src="https://img.shields.io/static/v1?label=Twitter&message=ken_kennedy_ho&color=00ACEE">	
 	</a>
-	<a href="Resume_IOS_Kenny_Ho.pdf">
+	<a href="Resume_KennyHo.pdf">
 		<img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=E94335">	
 	</a>
 	<a href="mailto:kenkennedyho@gmail.com">
