@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-Hey there, I’m Kenny, a recent graduate at Temple University. I am currently pursuing a career in iOS mobile development. I am a self-taught developer who have been programming for the past 2 years. I specialize in front-end development. Something interesting about me is that in college in pursued a finance degree but grew to love software development during my junior year. I'm also a member of PhillyCocoaHeads and Philadelphia GDG. Check out some of my work below and feel free to reach out to me at any time!	
+Hey there, I’m Kenny Ho and I am currently pursuing a career in iOS mobile development. I am a self-taught developer who have been programming for the past 2 years. In college, I pursued a career in finance and had an internship at Lincoln Financial during my sophomore year. But during my 2nd semester of junior year, I became more interested in software development because I wanted to be a creator of a product instead of an investor of a product. Software development, I felt, provided me an outlet to take my ideas and make it into an actual product that people can use! I'm also a member/volunteer at PhillyCocoaHeads and GDG Philadelphia where we have monthly meetings to talk about current technology and projects our community are working on! Below are some of the apps I released, try it out and give me some feedback! I'm always trying to learn and improve on my craft. 
 </p>
 
 <h1 align="center">App Portfolio</h1>
