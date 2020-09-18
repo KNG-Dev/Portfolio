@@ -13,7 +13,7 @@
 		<img src="https://img.shields.io/static/v1?label=LinkedIn&message=kennyho&color=2867B2">	
 	</a>
 	<a href="https://twitter.com/kennygotapenny">
-		<img src="https://img.shields.io/static/v1?label=Twitter&message=ken_kennedy_ho&color=00ACEE">	
+		<img src="https://img.shields.io/static/v1?label=Twitter&message=kennygotapenny&color=00ACEE">	
 	</a>
 	<a href="Resume_KennyHo.pdf">
 		<img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=E94335">	
