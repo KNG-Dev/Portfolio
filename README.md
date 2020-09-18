@@ -12,7 +12,7 @@
 	<a href="https://www.linkedin.com/in/kenny-ho-84b039a3/">
 		<img src="https://img.shields.io/static/v1?label=LinkedIn&message=kennyho&color=2867B2">	
 	</a>
-	<a href="https://twitter.com/ken_kennedy_ho">
+	<a href="https://twitter.com/kennygotapenny">
 		<img src="https://img.shields.io/static/v1?label=Twitter&message=ken_kennedy_ho&color=00ACEE">	
 	</a>
 	<a href="Resume_KennyHo.pdf">
